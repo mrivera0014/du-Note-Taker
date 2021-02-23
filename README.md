@@ -35,7 +35,9 @@ npm test
 
 ## Questions
 If you have any questions contact me at mrivera0014@gmail.com.
-Find more of my work at (https://github.commrivera0014/)
+Find more of my work at (https://github.com/mrivera0014/)
+
+[https://guarded-tundra-91066.herokuapp.com/](https://guarded-tundra-91066.herokuapp.com/)
 
 ![note-taker1](Images/note-taker1.PNG)
 ![note-taker2](Images/note-taker2.PNG)
