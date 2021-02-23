@@ -1,6 +1,4 @@
-# 
-    
- ## Title
+  ## Title
  du-Note-Taker
 
 
@@ -38,3 +36,7 @@ npm test
 ## Questions
 If you have any questions contact me at mrivera0014@gmail.com.
 Find more of my work at (https://github.commrivera0014/)
+
+![note-taker1](Images/note-taker1.PNG)
+![note-taker2](Images/note-taker2.PNG)
+![note-taker3](Images/note-taker3.PNG)
